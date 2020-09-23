@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DemoModule",
+        "repositoryURL": "https://github.com/pingwinator/DemoModuleSPM",
+        "state": {
+          "branch": "master",
+          "revision": "c8d13d04141d1e0e76b8140a65b81477f507f28c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
